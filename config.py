@@ -32,8 +32,8 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "更新日期", "url": "http://cfss.cc/cdn/hy/11282233.m3u8", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": None, "url": "http://cfss.cc/cdn/hy/11342387.m3u8", "logo": "http://175.178.251.183:6689/LR.jpg"}
+            {"name": "更新日期", "url": " ", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": None, "url": " ", "logo": "http://175.178.251.183:6689/LR.jpg"}
   ]
     }
 ]
